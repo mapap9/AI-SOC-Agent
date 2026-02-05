@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logoColor=white"/>
 </p>
 
+[Download](https://github.com/mapap9/SOC-Agentic-AI/releases/download/release/Agent.zip)
+
 ---
 
 ## Overview
