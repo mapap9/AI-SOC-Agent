@@ -7,9 +7,29 @@
   <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logoColor=white"/>
 </p>
 
-[Download](https://github.com/mapap9/SOC-Agentic-AI/releases/download/release/Agent.zip)
+[Download](https://gitlab.com/mapap9/ai-soc-agent/-/archive/release/ai-soc-agent-release.zip)
 <br />
-[Documentation](https://github.com/mapap9/SOC-Agentic-AI/blob/main/Threat%20Hunting%20and%20Remediation%20Using%20Agentic%20AI.pdf)
+[Documentation](https://gitlab.com/Matthew-P-Portfolio/ai-soc-agent/-/blob/main/Threat_Hunting_and_Remediation_Using_Agentic_AI.pdf?ref_type=heads)
+
+### macOS / Linux / WSL
+
+```bash
+git clone https://gitlab.com/mapap9/ai-soc-agent.git
+cd ai-soc-agent
+chmod +x setup.sh
+./setup.sh
+source venv/bin/activate
+```
+
+### Windows
+
+```powershell
+git clone https://gitlab.com/mapap9/ai-soc-agent.git
+cd ai-soc-agent
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\setup.ps1
+```
+
 ---
 
 ## Overview
