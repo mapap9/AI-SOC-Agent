@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logoColor=white"/>
 </p>
 
-[Download](https://github.com/mapap9/SOC-Agentic-AI/releases/download/release/ai-soc-agent.zip)
+[Download](https://github.com/mapap9/AI-SOC-Agent/releases/download/release/ai-soc-agent.zip)
 <br />
 [Documentation](https://gitlab.com/mapap9/ai-soc-agent/-/raw/main/Threat_Hunting_and_Remediation_Using_Agentic_AI.pdf?ref_type=heads&inline=false)
 
