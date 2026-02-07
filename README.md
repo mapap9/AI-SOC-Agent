@@ -70,6 +70,12 @@ The result is a **scalable, low-cost automation approach** that enhances analyst
 - **Visual Studio Code** — development environment  
 - **Black Formatter** — consistent code formatting  
 
+## Other Requirements
+- Pip
+- Pandas
+- Azure SDK (`azure-identity`, `azure-monitor-query`)
+- Azure CLI
+
 ---
 
 ## AI Agent Foundations
