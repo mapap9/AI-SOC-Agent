@@ -14,7 +14,7 @@
 ### macOS / Linux / WSL
 
 ```bash
-git clone https://gitlab.com/mapap9/ai-soc-agent.git
+git clone https://github.com/mapap9/AI-SOC-Agent.git
 cd ai-soc-agent
 chmod +x setup.sh
 ./setup.sh
@@ -24,7 +24,7 @@ source venv/bin/activate
 ### Windows
 
 ```powershell
-git clone https://gitlab.com/mapap9/ai-soc-agent.git
+git clone https://github.com/mapap9/AI-SOC-Agent.git
 cd ai-soc-agent
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\setup.ps1
